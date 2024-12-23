@@ -1,4 +1,4 @@
-
+{{-- @dd($name); --}}
 @extends('layouts.main')
 
 @section('container')
